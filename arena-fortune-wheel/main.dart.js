@@ -24780,7 +24780,7 @@ aNt(a){var s=0,r=A.F(t.ag),q,p
 var $async$qs=A.G(function(b,c){if(b===1)return A.C(c,r)
 while(true)switch(s){case 0:p=A.aE4()
 s=3
-return A.A(p.vB(A.aE6(A.dd("asset:///songs/theme.mp3"),null,null),null,!0),$async$qs)
+return A.A(p.vB(A.aE6(A.dd("asset:///assets/songs/theme.mp3"),null,null),null,!0),$async$qs)
 case 3:s=4
 return A.A(p.eI(B.rR),$async$qs)
 case 4:s=5
