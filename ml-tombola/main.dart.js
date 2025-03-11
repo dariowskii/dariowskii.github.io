@@ -92071,7 +92071,7 @@ A.nI(this.a).l5(s,null)},
 $S:0}
 A.Sy.prototype={
 hF(a,b){var s=null,r=b.a_e($.aR2(),t.F1),q=A.aKf(A.aBB(B.a0,s,s,B.Ns))
-return new A.vr(r,"Tombola!",A.aKf(A.aBB(B.ac,s,s,B.eE)),q,new A.ari(),s)}}
+return new A.vr(r,"ML Tombola!",A.aKf(A.aBB(B.ac,s,s,B.eE)),q,new A.ari(),s)}}
 A.ari.prototype={
 glx(){return A.cd([B.au,B.b9],t.C)}}
 A.GX.prototype={
