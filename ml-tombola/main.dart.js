@@ -93224,7 +93224,7 @@ case 3:j=n.c
 j.toString
 A.fs(j,!1).ki(null)
 s=5
-return A.y(A.jJ(A.cX(3e5,0),null,t.z),$async$nZ)
+return A.y(A.jJ(A.cX(1e6,0),null,t.z),$async$nZ)
 case 5:case 4:p=7
 s=10
 return A.y(n.gnr().iE(A.aEi(n.a.d,m).goM(),t.ZW),$async$nZ)
@@ -93269,7 +93269,7 @@ break}j=n.c
 j.toString
 A.fs(j,!1).ki(null)
 s=3
-return A.y(A.jJ(A.cX(3e5,0),null,t.z),$async$tU)
+return A.y(A.jJ(A.cX(1e6,0),null,t.z),$async$tU)
 case 3:m=n.go8().a.a
 n.go8().mh(B.zW)
 p=5
